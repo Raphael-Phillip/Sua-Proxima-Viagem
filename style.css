@@ -70,7 +70,7 @@ img {
   font-family:  "Open Sans", sans-serif;
   font-size: 28px;
   color: #1B1B1B;
-  margin: 20px 0 4px 30px;
+  margin: 20px 0 4px 0px;
 }
 #templedescription {
   font-size: 16px;
@@ -79,6 +79,28 @@ img {
   color: #1B1B1B;
 }
 #linklist {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: blue;
+  font-weight: bold;
+  margin: 0px 0 4px 20px;
+}
+#beomeotemple img {
+  margin: 48px 0px 20px 0px;
+}
+#beomeotemple h3 {
+  font-family:  "Open Sans", sans-serif;
+  font-size: 28px;
+  color: #1B1B1B;
+  margin-bottom: 4px;
+}
+#beomeotempledescription {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  text-align: justify;
+  color: #1B1B1B;
+}
+#beomeolinklist {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
   color: blue;
