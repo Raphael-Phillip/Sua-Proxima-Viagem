@@ -2,10 +2,9 @@
   margin: 0;
   padding: 0;
 }
-
 body {
   box-sizing: border-box;
-  
+  background-color: #F5F4F0;
 }
 #textinitial p {
   font-size: 16px;
@@ -30,6 +29,9 @@ body {
   box-sizing: border-box;
   margin: 40px auto;
 }
+img {
+  border-radius: 28px;
+}
 #imagecaption {
   font-family:  "Open Sans", sans-serif;
   font-size: 16px;
@@ -38,4 +40,14 @@ body {
   text-align: center;
   color: #333333;
   margin-top: 24px;
+  padding-bottom: 40px;
+  border-bottom: #333333 solid 2px;
+}
+#busandestinations {
+  padding-top: 40px;
+  width: 1120px;
+  margin: auto;
+}
+#destinationlove {
+  margin-top: 64px;
 }
