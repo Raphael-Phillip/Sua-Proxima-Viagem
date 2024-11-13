@@ -38,4 +38,4 @@ This simple project built in conjunction with the full-Stack course on the Rocke
 </div>
 <br/>
 
-Access: [Raphael Gonzaga](https://www.linkedin.com/in/raphael-gonzaga-248310250/)
+Access: [Raphael Gonzaga](https://www.linkedin.com/in/raphael-phillip-248310250/)
